@@ -17,6 +17,3 @@ Ejemplo para la capacitacion
           : '
            /
          .' `.
-asdfasdfds
-asdfadf
-dggdesdg
